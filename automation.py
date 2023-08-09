@@ -19,4 +19,3 @@ pyperclip.copy("Enviando o primeiro email automatizado com o python!!!")
 pyautogui.hotkey("ctrl", "v")
 pyautogui.hotkey("tab")
 pyautogui.hotkey("enter")
-
